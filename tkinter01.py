@@ -32,5 +32,5 @@ btn_incre.grid(row=0,column=2,sticky="nsew")#Le decimos que sea visible con el m
 btn_clear= Button(ventana, text="Reset",command=clear)
 btn_clear.grid(row=0,column=4,sticky="nsew")
 
-
+#prueba
 ventana.mainloop()
